@@ -1,1 +1,1 @@
-﻿/*** @author admin*/function myTest ( inN ){	var		p = inN * 19;	return p;}var		i = 0;i++;i++;i = myTest ( 33 );i = myTest ( 1919 );i = myTest ( 5454 );
+﻿/*** @author admin*/function myTest ( inN ){	var		p = inN * 19;	return p;}var		i = 0;i++;i++;i = myTest ( 33 );i = myTest ( 1919 );i = myTest ( 8080 );i = myTest ( 5454 );
