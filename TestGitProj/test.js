@@ -5,6 +5,7 @@
 */
 
 // This is a newline for my demo
+// This line has been added directly on github.com
 
 function myTest ( inN )
 {
