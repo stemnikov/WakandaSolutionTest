@@ -4,6 +4,8 @@
 
 */
 
+// This is a newline for my demo
+
 function myTest ( inN )
 {
 	var		p = inN * 19;
