@@ -17,6 +17,9 @@ function myTest ( inN )
 var		i = 0;
 i++;
 i++;
+
+var sd = 123;
+
 i = myTest ( 33 );
 i = myTest ( 1919 );
 // My modif from the second local repository 
