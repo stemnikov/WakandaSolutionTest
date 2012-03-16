@@ -17,6 +17,7 @@ function myTest ( inN )
 var		i = 0;
 i++;
 i++;
+var r = 3;
 
 
 var sd = 456;
