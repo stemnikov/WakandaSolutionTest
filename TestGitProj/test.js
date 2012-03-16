@@ -18,7 +18,9 @@ var		i = 0;
 i++;
 i++;
 
-var sd = 123;
+
+var sd = 456;
+sd++;
 
 i = myTest ( 33 );
 i = myTest ( 1919 );
