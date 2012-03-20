@@ -15,7 +15,7 @@ function myTest ( inN )
 	var		t2 = 2;
 	var		t3 = 3;
 
-	return p;
+	return pppp;
 }
 
 var		i = 0;
