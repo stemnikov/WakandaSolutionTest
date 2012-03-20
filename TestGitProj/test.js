@@ -10,7 +10,7 @@
 function myTest ( inN )
 {
 	var		p = inN * 19;
-	var		o = 0;
+	var		oo = 0;
 	var		t1 = 1;
 	var		t2 = 2;
 	var		t3 = 3;  
