@@ -11,6 +11,7 @@ function myTest ( inN )
 {
 	var		p = inN * 19;
 	var		t = 0;
+	var		t1 = 1;
 
 	return p;
 }
