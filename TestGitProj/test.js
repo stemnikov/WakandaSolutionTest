@@ -13,6 +13,7 @@ function myTest ( inN )
 	var		t = 0;
 	var		t1 = 1;
 	var		t2 = 2;
+	var		t3 = 3;
 
 	return p;
 }
