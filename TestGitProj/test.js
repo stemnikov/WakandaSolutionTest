@@ -19,7 +19,7 @@ function myTest ( inN )
 }
 
 var		i = 0;
-var		r3 = 33333333;
+var		r3 = 2;
 i++;
 i++;
 var r = 44444444;
