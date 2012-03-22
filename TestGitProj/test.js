@@ -7,10 +7,10 @@
 // This is a newline for my demo
 // This line has been added directly on github.com
 
-function myTest ( inN )
+function myTest ( inN )  
 {
-	var		p = inN * 19;
-	var		oo = 0;
+	var		p = inN * 19; 
+	var		oo = 456;
 	var		t1 = 1;
 	var		t2 = 2;
 	var		t3 = 3;  
@@ -19,10 +19,11 @@ function myTest ( inN )
 }
 
 var		i = 0;
-var		r3 = 2;
+var		r3 = khjkhjkh2;
 i++;
 i++;
 var r = 44444444;
+var r5 = 55555555;
 
 // asjdasjdjsagdsadsdsf
 // mofid
