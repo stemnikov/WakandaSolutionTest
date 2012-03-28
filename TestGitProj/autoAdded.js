@@ -5,7 +5,7 @@
 */
 
 //assadasd
-//new line for "conflict resolved" tests
+//new line for "conflict test clean" tests
 // Let's CONFL888ICT modify from studio
 // New line
 // Added on github to test with spaces
