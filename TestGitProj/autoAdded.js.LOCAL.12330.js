@@ -1,11 +1,11 @@
-/**
+﻿/**
 
 * @author admin
 
 */
 
 //assadasd
-//new line for conflict tests
+//new line for CONFLICT tests
 // Let's CONFL888ICT modify from studio
 // New line
 // Added on github to test with spaces
