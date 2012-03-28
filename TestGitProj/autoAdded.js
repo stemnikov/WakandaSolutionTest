@@ -13,4 +13,5 @@
 // Properly commented  modif
 // Commit with a comment
 // Test with spaces
+// Test push from Mac
 // Test pull from Mac 2
