@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-// New line - better zed than dead
-=======
-// New line - better dead than zed
->>>>>>> bebeb8423cd05610dee3ae5bd6234c92c6dea0e1
