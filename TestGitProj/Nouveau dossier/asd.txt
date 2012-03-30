@@ -1,6 +1,6 @@
 // New line - better no zed
 
-var		i = 0;
+var		i = 23;
 debugger;
 i++;
 i++;
