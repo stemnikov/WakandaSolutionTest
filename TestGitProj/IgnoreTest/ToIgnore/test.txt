@@ -1,1 +1,1 @@
-File should be ignored by git.
+File should be ignored by git.Touched
