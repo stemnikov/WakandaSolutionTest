@@ -1,1 +1,1 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><breakpoints><breakpoint path="../TestGitProj/test.js" line="15" content="i++;"/></breakpoints>
+﻿<?xml version="1.0" encoding="UTF-8"?><breakpoints><breakpoint path="../TestGitProj/test.js" line="15" content="i++;"/><breakpoint path="../TestGitProj/test.js" line="21" content="var  i = 0;"/></breakpoints>
