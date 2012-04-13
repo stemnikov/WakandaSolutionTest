@@ -36,6 +36,9 @@ i = myTest ( 33 );
 i = myTest ( 1919 );
 // My modif from the second local repository 
 // 222 My modif from the second local repository 
+
+// Test the extension api split in commit+push and commit then push 
+
 i = myTest ( 8080 );
 i = myTest ( 5454 );
 i = myTest ( 20230212 ); // Dynamic git root test
