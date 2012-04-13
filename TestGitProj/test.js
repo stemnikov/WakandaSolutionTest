@@ -40,6 +40,7 @@ i = myTest ( 1919 );
 // Test the extension api split in commit+push and commit then push 
 
 // Local-only modif and commit 1
+// Local-only modif and commit 2
 
 i = myTest ( 8080 );
 i = myTest ( 5454 );
