@@ -8,7 +8,7 @@
 // This line has been added directly on github.com
 
 // new test sergiy
-// test modif directly on github
+// test modif CONFLICT directly on github
 
 function myTest ( inN )  
 {
