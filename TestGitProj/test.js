@@ -7,6 +7,8 @@
 // This is a newline for my demo
 // This line has been added directly on github.com
 
+// new test sergiy
+
 function myTest ( inN )  
 {
 	var		p = inN * 19;     
