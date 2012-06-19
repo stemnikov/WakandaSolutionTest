@@ -1,1 +1,9 @@
-﻿/*** @author admin*/var		newvar = "newval";
+﻿/**
+
+* @author admin
+
+*/
+
+var		newvar = "newval";
+
+var   newvarongh = "direct";
