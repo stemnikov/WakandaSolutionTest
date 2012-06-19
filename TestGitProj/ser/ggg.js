@@ -1,0 +1,1 @@
+﻿/*** @author admin*/var	k = 0;k++;
