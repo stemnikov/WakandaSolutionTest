@@ -1,1 +1,1 @@
-﻿/*** @author admin*/var	k = 0;k++;k++;k = k + 234;
+﻿/*** @author admin*/var	k = 0;k++;k++;k = k + 234;k++;

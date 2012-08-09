@@ -24,7 +24,7 @@ var		r3 = khjkhjkh2;
 i++;
 i++;
 var r = 44444444;
-var r5 = 55555555;
+var r5 = 5555555555555;
 
 // asjdasjdjsagdsadsdsf
 // mofid
