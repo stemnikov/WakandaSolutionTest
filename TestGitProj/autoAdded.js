@@ -22,3 +22,5 @@ var	tt  =0;
 tt++;
 // Do the rrrrremote2222222
 var creatZZZZesonGH = 9;
+
+var p = 32;
