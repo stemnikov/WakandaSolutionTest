@@ -17,6 +17,7 @@
 // Test push from Mac
 // Test pull from Mac 2
 var sergiy= 0;
+var titi = 11;
 
 var	tt  =0;
 tt++;
